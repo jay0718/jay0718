@@ -1,4 +1,6 @@
-### Hi there 👋
+### 🌱 I'm currently learning Honours Physics Major and CS Minor in University of Waterloo!
+### 🌱 My expected graduation year is 2026 Apr.
+
 
 <!--
 **jay0718/jay0718** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
