@@ -1,5 +1,5 @@
-### 🌱 I'm currently learning Honours Physics Major and CS Minor in University of Waterloo!
-### 🌱 My expected graduation year is 2026 Apr.
+### I'm currently learning Honours Physics Major and CS Minor in University of Waterloo!
+### My expected graduation year is 2026 Apr.
 
 
 <!--
