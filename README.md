@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 🧳 Programming: <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-# How to contact: ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jay0718&show_icons=true&theme=radical)
-<a href="https://www.linkedin.com/in/jaycho030718/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-FFFFFF?style=flat&logo=LinkedIn&logoColor=0A66C2"/></a>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jay0718&show_icons=true&theme=radical)
+
+#### 🧳 Programming: <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+#### How to contact: <a href="https://www.linkedin.com/in/jaycho030718/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-FFFFFF?style=flat&logo=LinkedIn&logoColor=0A66C2"/></a>
